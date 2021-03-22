@@ -1,0 +1,17 @@
+.info-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 16px;
+    margin-right: 16px;
+
+}
+
+.down-icon{
+    vertical-align: middle;
+    font-size: 1.25em;
+}
+
+.battery-icon{
+    vertical-align: bottom;
+}

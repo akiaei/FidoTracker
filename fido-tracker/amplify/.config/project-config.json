@@ -1,0 +1,17 @@
+{
+  "projectName": "FidoTracker",
+  "version": "3.1",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "angular",
+    "config": {
+      "SourceDir": "/Users/Sayfe/Git/FidoTracker/fido-tracker",
+      "DistributionDir": "dist/fido-tracker",
+      "BuildCommand": "npm run-script build",
+      "StartCommand": "npm start"
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+}

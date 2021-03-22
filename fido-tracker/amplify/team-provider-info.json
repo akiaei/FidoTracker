@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fidotracker-dev-112517-authRole",
+      "UnauthRoleArn": "arn:aws:iam::701492937338:role/amplify-fidotracker-dev-112517-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::701492937338:role/amplify-fidotracker-dev-112517-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-fidotracker-dev-112517-deployment",
+      "UnauthRoleName": "amplify-fidotracker-dev-112517-unauthRole",
+      "StackName": "amplify-fidotracker-dev-112517",
+      "StackId": "arn:aws:cloudformation:us-east-2:701492937338:stack/amplify-fidotracker-dev-112517/f546a0b0-8b3b-11eb-876b-0a5c1af4b63e",
+      "AmplifyAppId": "d3vbfzvidwy2c7"
+    }
+  }
+}
